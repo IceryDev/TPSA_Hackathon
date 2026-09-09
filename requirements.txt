@@ -8,3 +8,4 @@ networkx>=3.2         # tested on 3.6.1
 geopandas>=1.0        # tested on 1.1.4
 matplotlib>=3.8       # tested on 3.11.1
 PyQt5>=5.15.9         # tested on 5.15.9
+Cartopy>=0.25         # tested on 0.25
